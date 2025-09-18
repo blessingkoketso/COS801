@@ -1,0 +1,6 @@
+close - the closing price of the cryptocurrency.
+  
+open - the opening price of the cryptocurrency.
+
+volume - the total number of cryptocurrency circulation. 
+  
