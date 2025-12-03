@@ -5,11 +5,11 @@ The Python version used is 3.11. We suggest you run the notebook on Google Colab
 
 pip install 
 
-# Risk Warning
+## Risk Warning
 
 Please keep in mind that no one can predict prices of cryptocurrencies with total certainty. Our price predictions can serve as guidelines and indications of future price developments, but are not intended to be used as investment advices.
 
-# References
+## References
 De Rosa, F. S. (2024). Cryptoanalytics: Cryptocoins price forecasting with machine learning
 techniques. SoftwareX, 26:101663.
 
