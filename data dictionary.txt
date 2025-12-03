@@ -1,6 +1,10 @@
-close - the closing price of the cryptocurrency.
-  
-open - the opening price of the cryptocurrency.
+High - the high price of the cryptocurrency.
 
-volume - the total number of cryptocurrency circulation. 
+Low - the low price of the cryptocurrency.
+
+Close - the closing price of the cryptocurrency.
+  
+Open - the opening price of the cryptocurrency.
+
+Volume - the total number of cryptocurrency in circulation. 
   
