@@ -5,7 +5,7 @@ The Python version used is 3.11. We suggest you run the notebook on Google Colab
 
 pip install python-3.11
 
-The requirements document is included; it contains all the modules needed to run the notebook. Install them first before attempting to the notebook.
+The requirements document is included; it contains all the modules needed to run the notebook. Install them first before attempting to the notebook. Link to Google Colab https://colab.google/.
 
 ## Risk Warning
 
