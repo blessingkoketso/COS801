@@ -12,7 +12,7 @@ Please keep in mind that no one can predict prices of cryptocurrencies with tota
 ## Dataset and Features
 
 GitHub repository 
-https://github.com/quapsale/cryptoanalytics/tree/main/data/datasets
+https://github.com/quapsale/cryptoanalytics/tree/main/data/datasets. A CSV file of the dataset is also attached to the current repository. The data contains the Open_High-Low-Close of the cryptocurrencies. 
 
 ## References
 De Rosa, F. S. (2024). Cryptoanalytics: Cryptocoins price forecasting with machine learning
