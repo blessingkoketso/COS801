@@ -9,6 +9,11 @@ pip install
 
 Please keep in mind that no one can predict prices of cryptocurrencies with total certainty. Our price predictions can serve as guidelines and indications of future price developments, but are not intended to be used as investment advices.
 
+## Dataset and Features
+
+GitHub repository 
+https://github.com/quapsale/cryptoanalytics/tree/main/data/datasets
+
 ## References
 De Rosa, F. S. (2024). Cryptoanalytics: Cryptocoins price forecasting with machine learning
 techniques. SoftwareX, 26:101663.
