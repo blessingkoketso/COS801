@@ -3,7 +3,7 @@ The main objective of the project is to reproduce the results detailed in the Cr
 ## Installation
 The Python version used is 3.11. We suggest you run the notebook on Google Colab for better performance and easy access to GPU workloads.
 
-pip install 
+pip install python-3.11
 
 ## Risk Warning
 
