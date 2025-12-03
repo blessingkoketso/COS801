@@ -5,6 +5,8 @@ The Python version used is 3.11. We suggest you run the notebook on Google Colab
 
 pip install python-3.11
 
+The requirements document is included; it contains all the modules needed to run the notebook. Install them first before attempting to the notebook.
+
 ## Risk Warning
 
 Please keep in mind that no one can predict the prices of cryptocurrencies with total certainty. Our price predictions can serve as guidelines and indications of future price developments, but are not intended to be used as investment advices.
