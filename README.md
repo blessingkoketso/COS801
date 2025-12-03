@@ -7,12 +7,16 @@ pip install
 
 ## Risk Warning
 
-Please keep in mind that no one can predict prices of cryptocurrencies with total certainty. Our price predictions can serve as guidelines and indications of future price developments, but are not intended to be used as investment advices.
+Please keep in mind that no one can predict the prices of cryptocurrencies with total certainty. Our price predictions can serve as guidelines and indications of future price developments, but are not intended to be used as investment advices.
 
 ## Dataset and Features
 
 GitHub repository 
 https://github.com/quapsale/cryptoanalytics/tree/main/data/datasets. A CSV file of the dataset is also attached to the current repository. The data contains the Open_High-Low-Close of the cryptocurrencies. 
+
+## Notebook
+
+The notebook is included in the repository and can be uploaded to Colab. The token in the secrets file can be used to run the workloads on Colab.  
 
 ## References
 De Rosa, F. S. (2024). Cryptoanalytics: Cryptocoins price forecasting with machine learning
